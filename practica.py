@@ -6,7 +6,7 @@ class Usuario:
         self.usuario = usuario
         self.password = password
 
-    def mostrar_datos (self):
+    def mostrar_datos(self):
         print(f"Tu usuario es {self.usuario}")
 
 usuario1 = Usuario("Patricia", "1234")
