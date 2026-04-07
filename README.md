@@ -311,7 +311,7 @@ Este método es el de la suma, es el que le enseña al objeto que debe pasar cua
 Sin darnos cuenta lo usamos todos los días.
 Cuando hacemos `a + b`lo que Python hace sin que se lo estemos indicando es `a.__add__(b)`
 
-![ejemplo visual dunder](images/Dunder.png)
+![ejemplo visual dunder](images/dunder.png)
 
 Sin los métodos dunder, Python seria muy rígido. Gracias a ellos, puedes hacer que tus propios objetos se sientan como si fueran parte nativa del lenguaje..
 
