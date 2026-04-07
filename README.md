@@ -64,6 +64,8 @@ Podemos pensar en el método `__init__` como el momento en el que "nace" el obje
 El método `__init__` tiene como función principal asignar valores a las propiedades del objeto que vamos a crear, o incluso realizar las operaciones necesarias en el momento de su creación.
 Prepara el "terreno" para que el objeto tenga todos sus datos listos desde el primer momento.
 
+Ejemplo visual:
+
 ![ejemplo visual init](images/__init__.png)
 
 Ejemplo en código:
